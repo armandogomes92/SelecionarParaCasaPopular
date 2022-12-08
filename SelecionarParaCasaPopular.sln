@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelecionarParaCasaPopular",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelecionarParaCasaPopular.Data", "SelecionarParaCasaPopular.Data\SelecionarParaCasaPopular.Data.csproj", "{7F4118B6-9984-4F55-801E-BDF9A1F17838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaPopularTests", "CasaPopular\CasaPopularTests.csproj", "{AE628A0A-79D1-4EC9-8482-5F2CDD3484B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaPopularTests", "CasaPopular\CasaPopularTests.csproj", "{AE628A0A-79D1-4EC9-8482-5F2CDD3484B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA7FD010-34A7-4961-BBBB-ABFB28A4AFC3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

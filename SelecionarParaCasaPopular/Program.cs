@@ -2,7 +2,6 @@ using SelecionarParaCasaPopular.Data.DataContext;
 using SelecionarParaCasaPopular.Data.Profiles;
 using SelecionarParaCasaPopular.Services;
 using SelecionarParaCasaPopular.Services.Interfaces;
-using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 

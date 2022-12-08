@@ -14,6 +14,7 @@ namespace SelecionarParaCasaPopular.Data.Profiles
         public FamiliaProfile()
         {
             CreateMap<CreateFamiliaDto, Familia>();
+            CreateMap<CreateMebrosDto, Pessoa>();
         }
     }
 }
